@@ -1,0 +1,14 @@
+C:\Users\Arthur\Desktop\AulasC#\bin\Debug\net8.0\AulasC#.exe
+C:\Users\Arthur\Desktop\AulasC#\bin\Debug\net8.0\AulasC#.deps.json
+C:\Users\Arthur\Desktop\AulasC#\bin\Debug\net8.0\AulasC#.runtimeconfig.json
+C:\Users\Arthur\Desktop\AulasC#\bin\Debug\net8.0\AulasC#.dll
+C:\Users\Arthur\Desktop\AulasC#\bin\Debug\net8.0\AulasC#.pdb
+C:\Users\Arthur\Desktop\AulasC#\obj\Debug\net8.0\AulasC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Desktop\AulasC#\obj\Debug\net8.0\AulasC#.AssemblyInfoInputs.cache
+C:\Users\Arthur\Desktop\AulasC#\obj\Debug\net8.0\AulasC#.AssemblyInfo.cs
+C:\Users\Arthur\Desktop\AulasC#\obj\Debug\net8.0\AulasC#.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\AulasC#\obj\Debug\net8.0\AulasC#.dll
+C:\Users\Arthur\Desktop\AulasC#\obj\Debug\net8.0\refint\AulasC#.dll
+C:\Users\Arthur\Desktop\AulasC#\obj\Debug\net8.0\AulasC#.pdb
+C:\Users\Arthur\Desktop\AulasC#\obj\Debug\net8.0\AulasC#.genruntimeconfig.cache
+C:\Users\Arthur\Desktop\AulasC#\obj\Debug\net8.0\ref\AulasC#.dll
